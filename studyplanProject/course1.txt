@@ -1,0 +1,21 @@
+c-programming,c-1070,Monday,11-14,I
+p-programming,p-1070,Tuesday,11-14,I
+Networking,N-1070,Wednesday,11-14,I
+Calculus,co-1070,Wednesday,9-11,I
+design,d-1070,Friday,11-14,I
+Software,S-1070,Monday,11-14,II
+Research,R-1070,Tuesday,11-14,II
+Internet,I-1070,Wednesday,11-14,II
+wireless,w-1070,Thursday,8–11,II
+Linux Bas,L-1070,Monday,11-14,III
+Mobile net,M-1070,Tuesday,11-14,III
+web dev,wd-1070,Wednesday,11-14,III
+Labratory,IN-1070,Thursday,11-14,III
+Mathematics,sp-1070,Monday,11-14,IV
+Logic math,Lo-1070,Tuesday,11-14,IV
+Report W,Re-1070,Wed,11-14,IV
+Accounting,A-1070,Monday,11-14,IV
+webprogramming,AP-1070,Monday,11-14,V
+Algorithm,Al-1070,Tuesday,11-14,V
+Concurrent p,C-1070,Wednesday,11-14,V
+Applied,Ap-1070,Wednesday,9-11,V

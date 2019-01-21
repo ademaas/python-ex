@@ -1,0 +1,41 @@
+
+
+
+Project: Study Plan
+
+Implement a system to maintain study plans for students. 
+The system should be able to maintain multiple students, each with a personal study plan.
+The study plan consists of courses that a student has planned to take.
+For each course the system should maintain the schedule: 
+                which periods and at which times the course events take place. 
+                For each student the system should be able to
+                present a personal schedule for each period, depending on 
+                which courses the student has selected.
+
+You should consider at least the following classes:
+
+Student, including student number, name, and list of courses selected
+
+Course, including at least course code, name and information of the course time table
+
+Requirements:
+
+User interface to operate on system. Text-based interface is sufficient
+
+Program should be able to add new courses to the course catalogue, 
+along with their schedules (period, weekdays and hours of teaching event)
+
+Program should be able to add new students to the database
+
+Students should be able to add one of the existing courses to their personal study plan
+
+Students should be able to print a personal schedule for
+ a given period (and year of studies). The program should warn if there are overlapping events.
+
+Advanced features:
+
+Visually nice way of presenting the study schedule
+
+List of all students on a particular course and study event
+
+(think of something else yourself)
